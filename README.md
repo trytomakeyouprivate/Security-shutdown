@@ -1,5 +1,5 @@
 # Security-shutdown
-Two ways to automatically shutdown your Linux PC/Laptop if there is has no power supply attached.
+Four ways to automatically shutdown your Linux PC/Laptop if there is has no power supply attached.
 
 The reasoning is simple: You dont want anyone to be able to touch your running system if they dont actually have to stay in your home.
 
